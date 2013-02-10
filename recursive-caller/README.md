@@ -1,0 +1,1 @@
+It's completely possible to traverse up a call stack when explicitly called. **Not** from an exception though. This method gives us actual references to the functions, as well as access to the arguments passed through, allowing us to construct a relatively useful call stack
